@@ -1,0 +1,9 @@
+{
+ "_note": "Photos for the new flyer style (kit/agv/flyers.html id=DAY/DAYS). All are 1080x1920 stills from our own story videos (Veo clips from our ElevenLabs stills, dramatised, no real customers). photoPos = CSS background-position that keeps overlays/captions out of the 1000 px photo window on a 4:5 flyer. Add new photos here (Canva export or ElevenLabs still pulled with kit/chromepull.py) with the same fields. Never use the same photo twice within 14 days (check the Poster log).",
+ "gogo-phone-smile.jpg": {"pos": "50% 30%", "people": "grandmother smiling at her phone, warm living room", "fits": "data/airtime for family at home, Zimbabwe"},
+ "gogo-clapping.jpg": {"pos": "50% 22%", "people": "grandmother clapping and smiling on a sofa", "fits": "celebration, airtime arrived"},
+ "man-phone-call-night.jpg": {"pos": "50% 46%", "people": "young man smiling on a phone call, city lights at night", "fits": "sent in seconds, calling home"},
+ "man-walks-into-garage.jpg": {"pos": "50% 30%", "people": "man walking into a garage shop at night (back view)", "fits": "buy a voucher at your local store"},
+ "hands-phone-and-voucher.jpg": {"pos": "50% 38%", "people": "hands holding a phone and a voucher slip", "fits": "dial the code with the voucher PIN"},
+ "young-woman-laughing-laptop.jpg": {"pos": "50% 40%", "people": "young woman laughing at her laptop and phone (overlay at the top: keep pos >= 36%)", "fits": "data arrived, students, deadlines"}
+}
