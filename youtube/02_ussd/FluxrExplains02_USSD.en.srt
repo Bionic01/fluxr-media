@@ -1,0 +1,627 @@
+1
+00:00:00,400 --> 00:00:02,960
+Star, one five one, hash.
+
+2
+00:00:03,440 --> 00:00:06,400
+Star, three three four, hash.
+
+3
+00:00:06,600 --> 00:00:11,200
+Across Africa, codes like these
+open the door to people's money.
+
+4
+00:00:11,280 --> 00:00:16,827
+Sub-Saharan Africa now has more than one
+billion registered mobile money accounts.
+
+5
+00:00:16,853 --> 00:00:18,080
+And a few years ago,
+
+6
+00:00:18,160 --> 00:00:23,440
+the GSMA estimated that over ninety percent
+of mobile money transactions in Africa
+
+7
+00:00:23,760 --> 00:00:26,640
+were still driven by one technology.
+
+8
+00:00:26,760 --> 00:00:29,040
+Not apps. Not the internet.
+
+9
+00:00:29,120 --> 00:00:31,280
+Short codes that you dial.
+
+10
+00:00:31,360 --> 00:00:37,040
+In Nigeria, those codes became so important
+that banks and phone networks argued for
+
+11
+00:00:37,120 --> 00:00:39,840
+four years over who should pay for them,
+
+12
+00:00:39,920 --> 00:00:44,000
+a bill that grew to almost
+three hundred billion naira.
+
+13
+00:00:44,080 --> 00:00:46,907
+The technology is called USSD,
+
+14
+00:00:46,933 --> 00:00:51,480
+and it was written into the
+mobile phone standard in 1995.
+
+15
+00:00:51,520 --> 00:00:56,613
+So how does a code from the nineties
+still move so much of Africa's money?
+
+16
+00:00:56,667 --> 00:01:02,000
+Let's find out. USSD stands for
+Unstructured Supplementary Service
+
+17
+00:01:02,080 --> 00:01:06,600
+Data. It's a mouthful, so here's
+what it means in real life.
+
+18
+00:01:06,640 --> 00:01:10,587
+When you dial a code that starts
+with a star and ends with a hash,
+
+19
+00:01:10,613 --> 00:01:15,160
+and a little menu pops up
+on your screen, that's USSD.
+
+20
+00:01:15,200 --> 00:01:17,640
+Check your balance. Buy a bundle.
+
+21
+00:01:17,680 --> 00:01:21,840
+Send money. Press one, press reply, done.
+
+22
+00:01:21,920 --> 00:01:27,800
+USSD was standardised in 1995,
+as part of GSM Phase 2,
+
+23
+00:01:27,840 --> 00:01:32,400
+the set of rules written by the European
+Telecommunications Standards Institute for
+
+24
+00:01:32,480 --> 00:01:36,600
+the GSM mobile networks used
+across most of the world.
+
+25
+00:01:36,640 --> 00:01:41,720
+Those same GSM standards include
+another code you can try right now.
+
+26
+00:01:41,760 --> 00:01:47,000
+Dial star, hash, zero six,
+hash, on almost any phone,
+
+27
+00:01:47,040 --> 00:01:51,960
+even with no SIM card inside, and it
+shows your phone's unique serial number,
+
+28
+00:01:52,000 --> 00:01:57,720
+called the IMEI. So what actually
+happens when you press dial?
+
+29
+00:01:57,760 --> 00:02:00,680
+Your code goes to the nearest cell tower.
+
+30
+00:02:00,720 --> 00:02:03,880
+From there, it goes to the
+network's switching centre,
+
+31
+00:02:03,920 --> 00:02:09,080
+and then to the home register, the database
+where your network keeps your details.
+
+32
+00:02:09,120 --> 00:02:12,680
+The network then hands
+it to a USSD gateway,
+
+33
+00:02:12,720 --> 00:02:17,333
+which passes it to the computer of
+whoever runs that code: your network,
+
+34
+00:02:17,387 --> 00:02:20,213
+your bank, or a service like ours.
+
+35
+00:02:20,267 --> 00:02:26,000
+The answer travels back the same way,
+usually in a moment, and a menu appears.
+
+36
+00:02:26,080 --> 00:02:28,120
+Two things make this special.
+
+37
+00:02:28,160 --> 00:02:30,520
+First, it's a live session.
+
+38
+00:02:30,560 --> 00:02:33,720
+An SMS is stored and then delivered.
+
+39
+00:02:33,760 --> 00:02:38,040
+A USSD session stays open
+while you read and reply,
+
+40
+00:02:38,080 --> 00:02:41,040
+a bit like a short
+phone call made of text.
+
+41
+00:02:41,120 --> 00:02:44,693
+Second, it travels on the
+network's signalling channels,
+
+42
+00:02:44,747 --> 00:02:48,400
+the same lanes the network
+uses to set up your calls.
+
+43
+00:02:48,480 --> 00:02:52,920
+That's why USSD doesn't need data,
+or an internet connection.
+
+44
+00:02:52,960 --> 00:02:55,480
+Just an ordinary mobile signal.
+
+45
+00:02:55,520 --> 00:02:57,440
+Of course, there are limits.
+
+46
+00:02:57,520 --> 00:03:03,080
+Each USSD message can hold at most
+one hundred and eighty-two characters.
+
+47
+00:03:03,360 --> 00:03:07,400
+That's why the menus are so short,
+and full of numbers to press.
+
+48
+00:03:07,680 --> 00:03:09,680
+And sessions don't last forever.
+
+49
+00:03:10,160 --> 00:03:14,880
+The standard allows up to six hundred
+seconds, but according to the ITU,
+
+50
+00:03:15,280 --> 00:03:20,040
+networks typically allow about one hundred
+and twenty seconds for a whole session.
+
+51
+00:03:20,320 --> 00:03:23,760
+Take too long to find your PIN,
+and you're back at the start.
+
+52
+00:03:24,080 --> 00:03:28,240
+There are no pictures,
+no logos, and no buttons to tap.
+
+53
+00:03:28,320 --> 00:03:33,120
+Just text. But that simplicity
+is exactly its superpower.
+
+54
+00:03:34,011 --> 00:03:38,571
+Here's why. In 2024,
+according to the GSMA,
+
+55
+00:03:38,651 --> 00:03:43,691
+only about a quarter of people in
+Sub-Saharan Africa used mobile internet.
+
+56
+00:03:43,771 --> 00:03:46,171
+And the main problem isn't coverage.
+
+57
+00:03:46,291 --> 00:03:50,731
+Only about ten percent of people in the
+region lived outside mobile broadband
+
+58
+00:03:50,811 --> 00:03:54,891
+coverage. A much bigger
+group, sixty-five percent,
+
+59
+00:03:54,971 --> 00:03:59,051
+lived where mobile internet was
+available, but didn't use it.
+
+60
+00:03:59,131 --> 00:04:03,891
+The reasons the GSMA points to include
+the cost of smartphones and data,
+
+61
+00:04:03,931 --> 00:04:09,291
+and digital skills. Smartphones
+are growing fast, but in 2022,
+
+62
+00:04:09,331 --> 00:04:13,264
+they were only about half of all
+mobile connections in the region.
+
+63
+00:04:13,318 --> 00:04:16,211
+The rest were basic and feature phones.
+
+64
+00:04:16,251 --> 00:04:18,931
+USSD works on all of them.
+
+65
+00:04:18,971 --> 00:04:24,371
+There's no app to download, no data bundle
+to buy, and no storage space needed.
+
+66
+00:04:24,411 --> 00:04:27,891
+If your phone can make a
+call, it can dial a code.
+
+67
+00:04:27,931 --> 00:04:32,771
+That's how a few short codes became
+the front doors of whole money systems.
+
+68
+00:04:32,811 --> 00:04:38,704
+In Zimbabwe, EcoCash simplified its
+code to star, one five one, hash,
+
+69
+00:04:38,758 --> 00:04:44,224
+back in 2014. In Kenya, M-Pesa
+first ran on a SIM card menu,
+
+70
+00:04:44,278 --> 00:04:49,251
+and in 2020 Safaricom put all
+of its M-Pesa services on star,
+
+71
+00:04:49,291 --> 00:04:51,331
+three three four, hash.
+
+72
+00:04:51,371 --> 00:04:57,091
+In India, the national payments body
+launched star, nine nine, hash, in 2012,
+
+73
+00:04:57,131 --> 00:04:59,638
+so people could bank from any phone.
+
+74
+00:04:59,664 --> 00:05:01,811
+And the numbers are huge.
+
+75
+00:05:01,851 --> 00:05:03,558
+According to the GSMA,
+
+76
+00:05:03,584 --> 00:05:07,691
+there were two point one billion registered
+mobile money accounts in the world in
+
+77
+00:05:07,771 --> 00:05:13,131
+2024, and more than one billion of
+them were in Sub-Saharan Africa.
+
+78
+00:05:13,211 --> 00:05:18,411
+That year, the region processed about one
+point one trillion US dollars in mobile
+
+79
+00:05:18,851 --> 00:05:20,451
+money. In South Africa,
+
+80
+00:05:20,491 --> 00:05:25,851
+the 2022 census counted about two point
+four million people who were born in another
+
+81
+00:05:26,331 --> 00:05:29,331
+country. Many of them send support home.
+
+82
+00:05:29,371 --> 00:05:33,504
+And many do it with cash,
+from a phone with no data.
+
+83
+00:05:33,558 --> 00:05:37,251
+A voucher, and a code they
+can dial from any phone.
+
+84
+00:05:37,291 --> 00:05:39,931
+That's exactly why we built Fluxr.
+
+85
+00:05:40,011 --> 00:05:42,731
+This story is brought to you by Fluxr.
+
+86
+00:05:42,811 --> 00:05:46,211
+Send airtime and data
+home, from any phone.
+
+87
+00:05:46,251 --> 00:05:50,131
+Buy a 1Voucher, OTT Voucher, Blu Voucher,
+
+88
+00:05:50,171 --> 00:05:53,971
+FNB Voucher or 4ALL
+Voucher at your local store,
+
+89
+00:05:54,011 --> 00:05:59,851
+then dial star one three zero,
+star three one zero two six, star,
+
+90
+00:05:59,931 --> 00:06:01,811
+your voucher PIN, hash.
+
+91
+00:06:01,851 --> 00:06:05,011
+It works on any phone, no data needed.
+
+92
+00:06:05,051 --> 00:06:09,744
+Or get the Fluxr app on Google Play:
+turn your voucher into wallet credit,
+
+93
+00:06:09,798 --> 00:06:14,331
+then buy airtime, data and
+electricity, here and back home.
+
+94
+00:06:14,411 --> 00:06:16,091
+Now, back to the story.
+
+95
+00:06:17,048 --> 00:06:21,368
+Because USSD has one big
+question hanging over it.
+
+96
+00:06:21,688 --> 00:06:25,208
+Who pays? Every session uses the network.
+
+97
+00:06:25,848 --> 00:06:30,168
+In Nigeria, banks built
+USSD codes for transfers,
+
+98
+00:06:30,208 --> 00:06:33,208
+and the phone networks billed
+the banks for the sessions.
+
+99
+00:06:33,528 --> 00:06:37,128
+The banks didn't pay it all,
+and the bill kept growing.
+
+100
+00:06:37,688 --> 00:06:43,208
+By 2024, it was estimated at between
+two hundred and fifty and three hundred
+
+101
+00:06:43,528 --> 00:06:48,088
+billion naira. In March
+2025, the regulator,
+
+102
+00:06:48,168 --> 00:06:51,768
+the Nigerian Communications
+Commission, set a price:
+
+103
+00:06:51,928 --> 00:06:56,648
+six naira ninety-eight kobo for a banking
+session of up to one hundred and twenty
+
+104
+00:06:56,808 --> 00:07:02,008
+seconds. It also allowed the networks to
+charge that fee to customers' airtime,
+
+105
+00:07:02,088 --> 00:07:03,128
+with their consent.
+
+106
+00:07:03,768 --> 00:07:06,408
+From June 2025, they did.
+
+107
+00:07:07,208 --> 00:07:09,288
+In February 2026,
+
+108
+00:07:09,328 --> 00:07:14,888
+the operators' association announced that
+there was no outstanding USSD debt left.
+
+109
+00:07:15,208 --> 00:07:20,968
+Nearly three hundred billion naira, built
+up over four years, was finally cleared.
+
+110
+00:07:21,688 --> 00:07:22,688
+The lesson?
+
+111
+00:07:22,888 --> 00:07:26,728
+USSD looks simple,
+but every session has a cost.
+
+112
+00:07:27,288 --> 00:07:32,328
+Someone has to carry it: the bank,
+the customer, or the service you're using.
+
+113
+00:07:33,208 --> 00:07:37,448
+So is USSD dying? Smartphones are coming.
+
+114
+00:07:37,928 --> 00:07:42,248
+The GSMA expects them to make up about
+eighty-eight percent of connections in
+
+115
+00:07:42,328 --> 00:07:45,288
+Sub-Saharan Africa by 2030.
+
+116
+00:07:45,368 --> 00:07:51,128
+And apps can do things a code never
+will: pictures, history, receipts,
+
+117
+00:07:51,208 --> 00:07:53,088
+and much easier menus.
+
+118
+00:07:53,448 --> 00:07:55,728
+But a code still has its place.
+
+119
+00:07:56,008 --> 00:07:57,288
+When the data runs out.
+
+120
+00:07:57,608 --> 00:07:59,008
+When the phone is old.
+
+121
+00:07:59,208 --> 00:08:03,448
+When the person you're helping is a
+grandmother who has never downloaded an app in
+
+122
+00:08:03,528 --> 00:08:04,528
+her life.
+
+123
+00:08:04,968 --> 00:08:08,968
+So the future probably isn't USSD or apps.
+
+124
+00:08:09,208 --> 00:08:14,408
+It's both. An app for people who have
+data, and a code for everyone else.
+
+125
+00:08:15,288 --> 00:08:20,088
+Let's recap. USSD was
+standardised in 1995.
+
+126
+00:08:20,728 --> 00:08:24,648
+It opens a live text session on
+the network's signalling channels,
+
+127
+00:08:24,728 --> 00:08:27,528
+so it works on any phone, with no data.
+
+128
+00:08:28,248 --> 00:08:32,008
+Each screen holds up to one
+hundred and eighty-two characters,
+
+129
+00:08:32,048 --> 00:08:35,288
+and networks usually allow
+about two minutes per session.
+
+130
+00:08:36,008 --> 00:08:39,848
+In a region where only a quarter
+of people use mobile internet,
+
+131
+00:08:39,928 --> 00:08:43,608
+that made USSD the front
+door to mobile money,
+
+132
+00:08:43,688 --> 00:08:46,248
+from EcoCash to M-Pesa.
+
+133
+00:08:46,328 --> 00:08:51,688
+And in Nigeria, it showed that
+even a simple code has a real cost.
+
+134
+00:08:51,768 --> 00:08:55,208
+If you enjoyed this story,
+subscribe for the next one.
+
+135
+00:08:55,248 --> 00:08:59,368
+And if you're sending airtime and
+data home, you know where to find us.
+
