@@ -387,17 +387,17 @@ A voucher, and a code they
 can dial from any phone.
 
 84
-00:05:37,291 --> 00:05:39,931
+00:05:37,291 --> 00:05:39,820
 That's exactly why we built Fluxr.
 
 85
-00:05:40,011 --> 00:05:42,731
+00:05:39,850 --> 00:05:42,470
 This story is brought to you by Fluxr.
 
 86
-00:05:42,811 --> 00:05:46,211
-Send airtime and data
-home, from any phone.
+00:05:42,581 --> 00:05:45,780
+From South Africa, send
+airtime and data home.
 
 87
 00:05:46,251 --> 00:05:50,131
