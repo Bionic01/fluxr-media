@@ -1,0 +1,641 @@
+1
+00:00:00,400 --> 00:00:04,240
+Harare, 2016. It's five in the morning,
+
+2
+00:00:04,280 --> 00:00:08,400
+and the queue outside the bank
+already stretches around the corner.
+
+3
+00:00:08,480 --> 00:00:11,200
+Let's call the woman near the front Rudo.
+
+4
+00:00:11,240 --> 00:00:14,720
+She's a teacher. And when she
+finally reaches the counter,
+
+5
+00:00:14,840 --> 00:00:18,080
+the most she can take
+out is fifty dollars.
+
+6
+00:00:18,160 --> 00:00:20,400
+So Rudo stops queuing.
+
+7
+00:00:20,480 --> 00:00:24,960
+She takes out her phone,
+dials star, one five one, hash,
+
+8
+00:00:25,040 --> 00:00:28,160
+and pays for her bread
+with a few button presses.
+
+9
+00:00:28,280 --> 00:00:31,200
+She wasn't alone. By 2017,
+
+10
+00:00:31,280 --> 00:00:35,840
+more than ninety-six percent of the
+value of all transactions in Zimbabwe was
+
+11
+00:00:36,000 --> 00:00:39,520
+electronic. Cash had almost disappeared,
+
+12
+00:00:39,640 --> 00:00:44,640
+and one phone service, EcoCash,
+carried most of the country's payments.
+
+13
+00:00:44,720 --> 00:00:49,360
+Then, in June 2020,
+the government suspended it.
+
+14
+00:00:49,480 --> 00:00:55,040
+So how did a phone code take over a
+country's money, and what went wrong?
+
+15
+00:00:55,120 --> 00:00:59,680
+Let's find out. EcoCash
+launched in September 2011,
+
+16
+00:00:59,800 --> 00:01:02,560
+run by Zimbabwe's Econet Wireless.
+
+17
+00:01:02,600 --> 00:01:06,600
+The idea was simple. Your
+phone number becomes a wallet.
+
+18
+00:01:06,640 --> 00:01:10,773
+You hand cash to an agent,
+a shop or a kiosk on the corner,
+
+19
+00:01:10,827 --> 00:01:13,280
+and the money appears on your phone.
+
+20
+00:01:13,480 --> 00:01:17,960
+Then you can send it, pay with it,
+or take it out again somewhere else.
+
+21
+00:01:18,000 --> 00:01:20,200
+And Zimbabwe loved it.
+
+22
+00:01:20,240 --> 00:01:23,920
+People who signed up at the
+start even got a free dollar.
+
+23
+00:01:24,120 --> 00:01:28,920
+Within two months, one hundred and
+sixty-five thousand people had registered.
+
+24
+00:01:28,960 --> 00:01:31,880
+By March 2012, one million.
+
+25
+00:01:31,920 --> 00:01:33,640
+By late 2013,
+
+26
+00:01:33,680 --> 00:01:38,840
+about three million users had moved
+two point two billion US dollars.
+
+27
+00:01:38,880 --> 00:01:43,160
+In 2014, the code got even shorter: star,
+
+28
+00:01:43,200 --> 00:01:47,160
+one five one, hash. By the middle of 2016,
+
+29
+00:01:47,200 --> 00:01:52,360
+EcoCash had six million customers
+and twenty-six thousand agents.
+
+30
+00:01:52,400 --> 00:01:55,787
+But the real turning point
+wasn't a marketing campaign.
+
+31
+00:01:55,813 --> 00:02:01,640
+It was a crisis. Since 2009,
+Zimbabwe had used the US dollar.
+
+32
+00:02:01,680 --> 00:02:04,453
+But a country can't print US dollars.
+
+33
+00:02:04,507 --> 00:02:08,320
+And by 2016, there simply
+weren't enough of them.
+
+34
+00:02:08,400 --> 00:02:10,360
+Banks ran short of notes.
+
+35
+00:02:10,400 --> 00:02:14,880
+The queues grew. Withdrawals were
+capped at fifty dollars a day,
+
+36
+00:02:14,960 --> 00:02:17,320
+and one hundred and fifty a week.
+
+37
+00:02:17,360 --> 00:02:21,560
+In November 2016, the central
+bank released bond notes,
+
+38
+00:02:21,600 --> 00:02:26,440
+two and five dollar notes that were
+supposed to be worth the same as US dollars.
+
+39
+00:02:26,480 --> 00:02:29,400
+But people had already found another way.
+
+40
+00:02:29,440 --> 00:02:32,200
+They moved their money onto their phones.
+
+41
+00:02:32,240 --> 00:02:38,000
+In 2016, mobile money was already eighty-one
+percent of all electronic payments by
+
+42
+00:02:38,440 --> 00:02:42,680
+number. By 2017, according to
+the Reserve Bank of Zimbabwe,
+
+43
+00:02:42,720 --> 00:02:46,600
+over ninety-six percent of
+transaction value was electronic,
+
+44
+00:02:46,640 --> 00:02:49,120
+and of about one billion transactions,
+
+45
+00:02:49,200 --> 00:02:53,440
+seven hundred and fifty-four
+million were made on a mobile phone.
+
+46
+00:02:53,520 --> 00:02:55,840
+Shops, markets, bills.
+
+47
+00:02:55,920 --> 00:03:00,400
+More and more of daily life
+ran on star one five one hash.
+
+48
+00:03:00,720 --> 00:03:04,640
+Zimbabwe had gone almost
+cashless, almost by accident.
+
+49
+00:03:05,120 --> 00:03:06,520
+But there was a catch.
+
+50
+00:03:06,800 --> 00:03:11,200
+A dollar on your phone was not
+the same as a dollar in your hand.
+
+51
+00:03:12,068 --> 00:03:15,748
+Because cash was so scarce,
+people started selling it.
+
+52
+00:03:16,308 --> 00:03:19,508
+If you wanted one hundred
+US dollars in notes,
+
+53
+00:03:19,588 --> 00:03:23,988
+you paid more than one hundred
+dollars by EcoCash or bank transfer.
+
+54
+00:03:24,388 --> 00:03:26,148
+By early 2018,
+
+55
+00:03:26,228 --> 00:03:30,468
+newspapers reported that premium
+had reached sixty-five percent.
+
+56
+00:03:31,108 --> 00:03:35,668
+So the same loaf of bread now
+had two prices: one in cash,
+
+57
+00:03:35,708 --> 00:03:37,508
+and a higher one on your phone.
+
+58
+00:03:38,388 --> 00:03:40,868
+Then, in October 2018,
+
+59
+00:03:40,948 --> 00:03:44,948
+a new two percent tax arrived
+on electronic transfers.
+
+60
+00:03:45,268 --> 00:03:48,988
+Many EcoCash payments
+now cost a little extra.
+
+61
+00:03:49,508 --> 00:03:54,308
+In February 2019, the electronic
+dollars got their own name:
+
+62
+00:03:54,428 --> 00:03:56,148
+the RTGS dollar.
+
+63
+00:03:56,948 --> 00:04:01,588
+By June, the Zimbabwe dollar
+was the only legal tender again.
+
+64
+00:04:01,708 --> 00:04:04,708
+And prices began to climb fast.
+
+65
+00:04:04,988 --> 00:04:07,348
+Agents were caught in the middle.
+
+66
+00:04:07,428 --> 00:04:09,348
+In September 2019,
+
+67
+00:04:09,428 --> 00:04:14,468
+EcoCash itself suspended more than four
+thousand agents for charging people a
+
+68
+00:04:14,748 --> 00:04:19,428
+premium to cash out. Many of the people
+living through this had family in South
+
+69
+00:04:19,508 --> 00:04:21,988
+Africa, sending support home.
+
+70
+00:04:22,468 --> 00:04:25,988
+And that brings us to the
+moment everything changed.
+
+71
+00:04:26,308 --> 00:04:28,388
+But first, a quick word from us.
+
+72
+00:04:29,028 --> 00:04:33,428
+If you're in South Africa, you can send
+airtime and data home with Fluxr.
+
+73
+00:04:33,988 --> 00:04:37,508
+Buy a 1Voucher, OTT Voucher, Blu Voucher,
+
+74
+00:04:37,828 --> 00:04:41,828
+FNB Voucher or 4ALL
+Voucher at your local store,
+
+75
+00:04:41,908 --> 00:04:47,748
+then dial star one three zero,
+star three one zero two six, star,
+
+76
+00:04:47,828 --> 00:04:49,668
+your voucher PIN, hash.
+
+77
+00:04:49,988 --> 00:04:52,548
+Top up your own phone
+here in South Africa,
+
+78
+00:04:52,668 --> 00:04:56,068
+or send airtime and data
+to family back home.
+
+79
+00:04:56,148 --> 00:04:59,508
+It works on any phone, no data needed.
+
+80
+00:04:59,588 --> 00:05:04,708
+Or get the Fluxr app on Google Play:
+turn your voucher into wallet credit,
+
+81
+00:05:04,788 --> 00:05:09,348
+then buy airtime, data and
+electricity, here and back home,
+
+82
+00:05:09,468 --> 00:05:13,348
+plus vouchers and bill
+payments, all in one app.
+
+83
+00:05:13,428 --> 00:05:16,628
+Now, back to June 2020.
+
+84
+00:05:16,708 --> 00:05:19,268
+On the twenty-sixth of June 2020,
+
+85
+00:05:19,308 --> 00:05:23,828
+the government halted mobile money
+transactions and suspended the Zimbabwe Stock
+
+86
+00:05:24,108 --> 00:05:26,868
+Exchange, all on the same day.
+
+87
+00:05:26,948 --> 00:05:31,828
+It said EcoCash handled about ninety-four
+percent of those transactions.
+
+88
+00:05:31,868 --> 00:05:35,348
+And it accused mobile money
+of feeding the black market,
+
+89
+00:05:35,468 --> 00:05:40,388
+where cash was being sold at
+premiums of thirty to fifty percent.
+
+90
+00:05:40,468 --> 00:05:43,108
+The next day, the order was narrowed.
+
+91
+00:05:43,228 --> 00:05:45,468
+Ordinary people could still pay.
+
+92
+00:05:45,508 --> 00:05:48,748
+But agent lines and bulk
+payments were suspended,
+
+93
+00:05:48,788 --> 00:05:53,508
+so the corner kiosks could no
+longer turn phone money into cash.
+
+94
+00:05:53,588 --> 00:05:58,308
+Weeks later, police searched EcoCash's
+head office in Harare for transaction
+
+95
+00:05:58,788 --> 00:06:01,748
+records. Econet challenged it in court.
+
+96
+00:06:01,788 --> 00:06:05,628
+And in August 2020, new rules arrived.
+
+97
+00:06:05,668 --> 00:06:08,841
+Each person could have
+just one EcoCash line,
+
+98
+00:06:08,895 --> 00:06:12,628
+with a limit of five thousand
+Zimbabwe dollars a day.
+
+99
+00:06:12,828 --> 00:06:14,548
+Agent wallets were abolished.
+
+100
+00:06:14,628 --> 00:06:18,828
+For Rudo, that meant the
+kiosk on her corner was gone.
+
+101
+00:06:19,108 --> 00:06:21,108
+And by the end of 2020,
+
+102
+00:06:21,188 --> 00:06:26,268
+the regulator counted about five and
+a half million active EcoCash users.
+
+103
+00:06:26,548 --> 00:06:28,388
+That was fewer than before,
+
+104
+00:06:28,468 --> 00:06:33,348
+but EcoCash still handled almost all
+of the country's mobile money payments.
+
+105
+00:06:34,237 --> 00:06:36,717
+So where is EcoCash today?
+
+106
+00:06:37,037 --> 00:06:41,117
+It's still here, and it's
+still star one five one hash.
+
+107
+00:06:41,437 --> 00:06:46,917
+In 2024, the EcoCash service moved
+directly into Econet Wireless.
+
+108
+00:06:47,197 --> 00:06:51,837
+The listed company that used to carry
+its name became TN CyberTech in
+
+109
+00:06:51,917 --> 00:06:56,677
+2025. But the wallet in
+people's pockets kept its name.
+
+110
+00:06:57,037 --> 00:06:59,677
+Zimbabwe's money changed again too.
+
+111
+00:06:59,757 --> 00:07:04,397
+In April 2024, it launched
+a new currency, ZiG,
+
+112
+00:07:04,477 --> 00:07:08,877
+Zimbabwe Gold.
+And EcoCash is growing again.
+
+113
+00:07:08,997 --> 00:07:14,477
+In May 2025, it started sending money
+out of Zimbabwe to other countries.
+
+114
+00:07:14,517 --> 00:07:17,197
+In its year to February 2026,
+
+115
+00:07:17,237 --> 00:07:22,477
+Econet said revenue from mobile money
+services grew sixty-three percent.
+
+116
+00:07:22,557 --> 00:07:25,357
+Money also keeps coming in from outside.
+
+117
+00:07:25,437 --> 00:07:30,477
+The Reserve Bank says Zimbabweans abroad
+sent home about two point four five billion
+
+118
+00:07:30,557 --> 00:07:35,397
+US dollars in 2025. So what went wrong?
+
+119
+00:07:35,757 --> 00:07:38,797
+EcoCash solved one problem brilliantly.
+
+120
+00:07:38,837 --> 00:07:42,184
+It made it easy to pay
+when there was no cash.
+
+121
+00:07:42,210 --> 00:07:47,570
+But it couldn't solve the bigger problem:
+people didn't trust the money itself.
+
+122
+00:07:47,624 --> 00:07:51,317
+When the cash ran out,
+the phone kept the country trading.
+
+123
+00:07:51,357 --> 00:07:55,277
+But when the money on the phone and the
+money in your hand stopped being worth the
+
+124
+00:07:55,357 --> 00:07:58,530
+same, the phone was caught in the middle.
+
+125
+00:07:58,584 --> 00:08:01,944
+The lesson? Moving money is easy.
+
+126
+00:08:02,050 --> 00:08:04,597
+Keeping its value is the hard part.
+
+127
+00:08:04,637 --> 00:08:08,597
+A wallet is only as strong
+as the money inside it.
+
+128
+00:08:08,637 --> 00:08:14,557
+Let's recap. EcoCash launched in 2011
+and reached a million users in about six
+
+129
+00:08:15,037 --> 00:08:18,117
+months. When dollars ran short in 2016,
+
+130
+00:08:18,157 --> 00:08:21,144
+Zimbabweans moved their
+money onto their phones,
+
+131
+00:08:21,170 --> 00:08:26,757
+and by 2017 over ninety-six percent
+of transaction value was electronic.
+
+132
+00:08:26,797 --> 00:08:31,410
+But cash and phone money drifted
+apart, a two percent tax arrived,
+
+133
+00:08:31,464 --> 00:08:36,397
+and in June 2020 the government
+suspended mobile money and later cut its
+
+134
+00:08:36,477 --> 00:08:40,917
+agents. EcoCash survived,
+and it's still growing.
+
+135
+00:08:40,957 --> 00:08:44,357
+But Zimbabwe's story shows
+that a phone can move money,
+
+136
+00:08:44,397 --> 00:08:46,997
+but it can't make people trust it.
+
+137
+00:08:47,037 --> 00:08:50,197
+If you enjoyed this story,
+subscribe for the next one.
+
+138
+00:08:50,237 --> 00:08:53,797
+And if you're in South Africa,
+sending airtime and data home,
+
+139
+00:08:53,837 --> 00:08:55,357
+you know where to find us.
+
