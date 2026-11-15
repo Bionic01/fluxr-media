@@ -477,165 +477,202 @@ but EcoCash still handled almost all
 of the country's mobile money payments.
 
 105
-00:06:34,237 --> 00:06:36,717
+00:06:34,237 --> 00:06:36,397
 So where is EcoCash today?
 
 106
-00:06:37,037 --> 00:06:41,117
+00:06:36,957 --> 00:06:41,197
 It's still here, and it's
 still star one five one hash.
 
 107
-00:06:41,437 --> 00:06:46,917
+00:06:41,517 --> 00:06:47,077
 In 2024, the EcoCash service moved
 directly into Econet Wireless.
 
 108
-00:06:47,197 --> 00:06:51,837
-The listed company that used to carry
-its name became TN CyberTech in
+00:06:47,357 --> 00:06:52,717
+The listed company that used to carry its
+name, EcoCash Holdings, got a new owner.
 
 109
-00:06:51,917 --> 00:06:56,677
-2025. But the wallet in
-people's pockets kept its name.
+00:06:53,037 --> 00:06:58,797
+In 2025, T-N Asset Management,
+led by businessman Tawanda Nyambirai,
 
 110
-00:06:57,037 --> 00:06:59,677
-Zimbabwe's money changed again too.
+00:06:58,917 --> 00:07:02,517
+took control and renamed it T-N CyberTech.
 
 111
-00:06:59,757 --> 00:07:04,397
+00:07:02,797 --> 00:07:07,237
+Its bank, Steward Bank,
+is now T-N CyberTech Bank.
+
+112
+00:07:07,517 --> 00:07:12,157
+But the wallet in people's pockets
+stayed with Econet, and kept its name.
+
+113
+00:07:12,797 --> 00:07:17,677
+The agents came back too,
+slowly and under tighter rules.
+
+114
+00:07:17,757 --> 00:07:22,877
+In 2022, selected shops started
+paying out US dollars again.
+
+115
+00:07:22,957 --> 00:07:25,037
+And in August 2026,
+
+116
+00:07:25,117 --> 00:07:30,397
+Econet said it planned to add fifteen
+thousand new agents by Christmas.
+
+117
+00:07:30,477 --> 00:07:33,837
+Meanwhile, Zimbabwe's money changed again.
+
+118
+00:07:33,917 --> 00:07:38,717
 In April 2024, it launched
 a new currency, ZiG,
 
-112
-00:07:04,477 --> 00:07:08,877
+119
+00:07:38,797 --> 00:07:43,037
 Zimbabwe Gold.
 And EcoCash is growing again.
 
-113
-00:07:08,997 --> 00:07:14,477
+120
+00:07:43,117 --> 00:07:48,837
 In May 2025, it started sending money
 out of Zimbabwe to other countries.
 
-114
-00:07:14,517 --> 00:07:17,197
+121
+00:07:48,877 --> 00:07:51,597
 In its year to February 2026,
 
-115
-00:07:17,237 --> 00:07:22,477
+122
+00:07:51,677 --> 00:07:57,037
 Econet said revenue from mobile money
 services grew sixty-three percent.
 
-116
-00:07:22,557 --> 00:07:25,357
+123
+00:07:57,117 --> 00:08:00,024
 Money also keeps coming in from outside.
 
-117
-00:07:25,437 --> 00:07:30,477
+124
+00:08:00,050 --> 00:08:05,517
 The Reserve Bank says Zimbabweans abroad
 sent home about two point four five billion
 
-118
-00:07:30,557 --> 00:07:35,397
+125
+00:08:05,597 --> 00:08:10,357
 US dollars in 2025. So what went wrong?
 
-119
-00:07:35,757 --> 00:07:38,797
+126
+00:08:10,397 --> 00:08:13,557
 EcoCash solved one problem brilliantly.
 
-120
-00:07:38,837 --> 00:07:42,184
+127
+00:08:13,597 --> 00:08:16,837
 It made it easy to pay
 when there was no cash.
 
-121
-00:07:42,210 --> 00:07:47,570
+128
+00:08:16,877 --> 00:08:22,317
 But it couldn't solve the bigger problem:
 people didn't trust the money itself.
 
-122
-00:07:47,624 --> 00:07:51,317
+129
+00:08:22,357 --> 00:08:26,157
 When the cash ran out,
 the phone kept the country trading.
 
-123
-00:07:51,357 --> 00:07:55,277
+130
+00:08:26,197 --> 00:08:30,397
 But when the money on the phone and the
 money in your hand stopped being worth the
 
-124
-00:07:55,357 --> 00:07:58,530
+131
+00:08:30,757 --> 00:08:33,730
 same, the phone was caught in the middle.
 
-125
-00:07:58,584 --> 00:08:01,944
+132
+00:08:33,784 --> 00:08:36,677
 The lesson? Moving money is easy.
 
-126
-00:08:02,050 --> 00:08:04,597
+133
+00:08:36,717 --> 00:08:39,317
 Keeping its value is the hard part.
 
-127
-00:08:04,637 --> 00:08:08,597
+134
+00:08:39,357 --> 00:08:43,397
 A wallet is only as strong
 as the money inside it.
 
-128
-00:08:08,637 --> 00:08:14,557
+135
+00:08:43,437 --> 00:08:49,437
 Let's recap. EcoCash launched in 2011
 and reached a million users in about six
 
-129
-00:08:15,037 --> 00:08:18,117
+136
+00:08:49,517 --> 00:08:52,997
 months. When dollars ran short in 2016,
 
-130
-00:08:18,157 --> 00:08:21,144
+137
+00:08:53,037 --> 00:08:56,130
 Zimbabweans moved their
 money onto their phones,
 
-131
-00:08:21,170 --> 00:08:26,757
+138
+00:08:56,184 --> 00:09:01,957
 and by 2017 over ninety-six percent
 of transaction value was electronic.
 
-132
-00:08:26,797 --> 00:08:31,410
+139
+00:09:01,997 --> 00:09:06,610
 But cash and phone money drifted
 apart, a two percent tax arrived,
 
-133
-00:08:31,464 --> 00:08:36,397
-and in June 2020 the government
-suspended mobile money and later cut its
+140
+00:09:06,664 --> 00:09:11,957
+and in June 2020 the government suspended
+mobile money and cut its agents for a
 
-134
-00:08:36,477 --> 00:08:40,917
-agents. EcoCash survived,
+141
+00:09:11,997 --> 00:09:14,837
+while. EcoCash survived.
+
+142
+00:09:14,877 --> 00:09:18,597
+Its agents are coming back,
 and it's still growing.
 
-135
-00:08:40,957 --> 00:08:44,357
+143
+00:09:18,637 --> 00:09:22,117
 But Zimbabwe's story shows
 that a phone can move money,
 
-136
-00:08:44,397 --> 00:08:46,997
+144
+00:09:22,157 --> 00:09:24,757
 but it can't make people trust it.
 
-137
-00:08:47,037 --> 00:08:50,197
+145
+00:09:24,797 --> 00:09:28,117
 If you enjoyed this story,
 subscribe for the next one.
 
-138
-00:08:50,237 --> 00:08:53,797
+146
+00:09:28,157 --> 00:09:31,797
 And if you're in South Africa,
 sending airtime and data home,
 
-139
-00:08:53,837 --> 00:08:55,357
+147
+00:09:31,837 --> 00:09:33,437
 you know where to find us.
 
