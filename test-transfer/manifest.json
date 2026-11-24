@@ -1,0 +1,25 @@
+{
+ "name": "2026-11-25-zimbabwe-airtime-film.mp4",
+ "bytes": 24389471,
+ "sha256": "5ec162ca9ce218602b1745b214ed7a4fa1499278d5045be7a97f3e857f2bc1da",
+ "parts": [
+  {
+   "file": "2026-11-25-zimbabwe-airtime-film.mp4.part00",
+   "bytes": 10000000,
+   "sha256": "986346d8076cb1883942cdb08000ac9c837e1800172e612546ffa2a9f8d0fceb"
+  },
+  {
+   "file": "2026-11-25-zimbabwe-airtime-film.mp4.part01",
+   "bytes": 10000000,
+   "sha256": "1a67e9b515a4496a1965c9949f618109a33c86f652ea80cef9100b4f2e55985b"
+  },
+  {
+   "file": "2026-11-25-zimbabwe-airtime-film.mp4.part02",
+   "bytes": 4389471,
+   "sha256": "545af9c2eb55ee95f39e95b999352a806336bf90e1c87bb815a49ce50e4123bf"
+  }
+ ],
+ "metricool_post_id": null,
+ "brand": "7157206",
+ "uploaded": false
+}
